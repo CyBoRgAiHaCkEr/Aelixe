@@ -74,7 +74,7 @@ with st.sidebar:
         st.rerun()
 
 # --- 5. MAIN LOGIC ---
-st.title("🛡️ Aelixe // Deep Memory Terminal")
+st.title("Aelixe Ai")
 
 # Displaying Logs
 logs = load_logs()
