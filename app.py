@@ -47,8 +47,8 @@ client = Groq(api_key=api_key)
 
 # Note: Ensure these model strings are correct per Groq's current documentation
 MODELS = {
-    "Llama 3.3 70B": "llama-3.3-70b-versatile",
-    "Llama 3.1 8B": "llama-3.1-8b-instant"
+    "Llama 4 Scout": "meta-llama/llama-4-scout-17b-16e-instruct",
+    "Groq Compound": "groq/compound"
 }
 
 # --- 3. ROBOTIC UI ---
